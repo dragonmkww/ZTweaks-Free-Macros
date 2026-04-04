@@ -2,15 +2,16 @@
 This is basically just a GUI wrapper for the ZTweaks keyboard macro AutoHotKey scripots. The ZTweaks macro is extremely overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was really easy to copy them while the macros were running and paste them elsewhere.
 
 # Dependencies
-* The ```ZTweaks.Macro.Scripts.zip``` file from the ```Releases``` tab.
+* The ```OmegaMacros.exe``` file from the ```Releases``` tab.
 * AutoHotKey v2.0 which can be downloaded [here](https://www.autohotkey.com/).
 * Windows 10/11.
 
 # How to Use
-* Download and extract the macros ```.zip``` file.
-* To use the macros, click on whichever ```.ahk``` file you want to use and it will automatically turn it on. Close it in the tray to turn it off.
-* To change the keybinds, right click on the macro you want to edit and open it in VSCode. The keybinds are global variables.
-* You can also change the timing and even add functions to this macros this way.
+* Download the macros ```.exe``` file.
+* The ```.exe``` file is literally just a GUI for the built in scripts, you can see the code of the scripts for yourself in this repo. It's just a compiled Python script.
+* To use the macros, just open it and turn on whichever macros you like.
+* To change the keybinds, click the dropdown menu on the macro you're using and make sure to use the keybinds you have in fort.
+* You can also change the timing.
 
 # The Macros
 * ```zuls_double_edit.ahk``` is really just a single edit macro that you can hold.
