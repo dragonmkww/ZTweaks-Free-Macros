@@ -1,5 +1,5 @@
 # About Omega Macros
-This is just a free version Zuls macro. Zuls macro is extremely overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was really easy to copy them while the macros were running and paste them elsewhere.
+This is just a free version of Zuls macro. Zuls macro is extremely overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was really easy to copy them while the macros were running and paste them elsewhere.
 
 # Dependencies
 * The ```OmegaMacros.exe``` file from the ```Releases``` tab.
