@@ -1,6 +1,6 @@
 # THE COMPLETED EXE WILL EITHER BE UP LATER TODAY OR TOMORROW, FOR NOW JUST USE THE REGULAR SCRIPTS
 
-# About <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> Macros
+# <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> MACROS
 This is just a free version of Zuls macro. Zuls macro is overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was easy to copy them while the macros were running and paste them elsewhere.
 
 # Dependencies
@@ -11,7 +11,7 @@ This is just a free version of Zuls macro. Zuls macro is overpriced and I don't 
 # How to Use
 * Download the ```OmegaMacros.exe``` file.
 * To use the macros, open the ```.exe``` file and turn on whichever macro you want.
-* To change the keybinds, click the dropdown menu on the macro you're using and make sure to use the keybinds you have in fort.
+* To change the keybinds, click the bar for the macro you're using and make sure to use the keybinds you have in fort.
 * You can also change the timings of each macro.
 
 # The Macros
