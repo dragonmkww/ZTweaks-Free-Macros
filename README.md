@@ -1,4 +1,4 @@
-# <img src="https://clipart-library.com/image_gallery/503244.png" width="30"> Macros
+# About <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> Macros
 This is just a free version of Zuls macro. Zuls macro is overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was easy to copy them while the macros were running and paste them elsewhere.
 
 # Dependencies
