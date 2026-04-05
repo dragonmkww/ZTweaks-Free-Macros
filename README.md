@@ -1,7 +1,7 @@
 # THE COMPLETED EXE WILL EITHER BE UP LATER TODAY OR TOMORROW, FOR NOW JUST USE THE REGULAR SCRIPTS
 
 # <img src="https://clipart-library.com/image_gallery/503244.png" width="25"> MACROS
-This is just a free version of Zuls macro. Zuls macro is overpriced and I don't think anyone should give them money. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was easy to copy them while the macros were running and paste them elsewhere.
+This is a free version of Zuls macro with a custom GUI. I managed to copy the AutoHotKey scripts for the macros so that anyone could use them for free. The devs obviously didn't want anyone to do this, so they made the script files only generate while the macro is running. However, it was easy to copy them while the macros were running and paste them elsewhere.
 
 # Dependencies
 * The ```OmegaMacros.exe``` file from the ```Releases``` tab. It's written in Python and you can check the code of all the scripts in this repo if you want.
